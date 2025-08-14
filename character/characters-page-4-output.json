@@ -1,0 +1,13 @@
+{
+    "data":{
+        "character":{
+            "results":{
+"id": "4",
+"name" : "Ruth",
+"status" : "Alive",
+"image" : "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+
+            }
+        }
+    }
+}
